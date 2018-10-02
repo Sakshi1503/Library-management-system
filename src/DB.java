@@ -11,7 +11,5 @@ public class DB {
 		catch(Exception e){System.out.println(e);}
 		return con;
 	}
-
+//username = root PASSWORD = root
 }
-
-//MY DATABASE SHEET
